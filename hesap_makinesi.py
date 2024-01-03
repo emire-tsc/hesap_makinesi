@@ -29,7 +29,7 @@ while True:
     secim = input("Seciminizi yapin (1-5): ")
 
     if secim =='5':
-        print("proramdan cikiliyor...")
+        print("programdan cikiliyor...")
         break
 
     if secim in ('1', '2', '3', '4', '5'):
